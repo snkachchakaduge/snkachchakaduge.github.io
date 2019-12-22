@@ -6643,7 +6643,7 @@ button.bg-dark:focus {
 
 .mt-5,
 .my-5 {
-  margin-top: 3rem !important; }
+  margin-top: 0rem !important; }
 
 .mr-5,
 .mx-5 {
@@ -6651,7 +6651,7 @@ button.bg-dark:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 3rem !important; }
+  margin-bottom: 0rem !important; }
 
 .ml-5,
 .mx-5 {
@@ -6757,7 +6757,7 @@ button.bg-dark:focus {
 
 .pt-5,
 .py-5 {
-  padding-top: 3rem !important; }
+  padding-top: 0rem !important; }
 
 .pr-5,
 .px-5 {
@@ -6765,7 +6765,7 @@ button.bg-dark:focus {
 
 .pb-5,
 .py-5 {
-  padding-bottom: 3rem !important; }
+  padding-bottom: 0rem !important; }
 
 .pl-5,
 .px-5 {
@@ -8735,7 +8735,7 @@ h1, h2, h3, h4, h5,
     color: #000000; }
 
 .ftco-partner {
-  padding: 4em 0 !important; }
+  padding: 0em 0 !important; }
   .ftco-partner .partner {
     display: block;
     padding: 0 20px; }
